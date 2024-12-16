@@ -1,0 +1,30 @@
+# Flutter-specific
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.bat
+*.pdb
+
+# Linux
+*.so
+
+# Generated files
+pubspec.lock
